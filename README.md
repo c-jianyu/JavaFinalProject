@@ -1,6 +1,7 @@
 # JavaFinalProject
 
-## 題目:StarWar
+## 題目:
+* StarWar
 
 ## 組員:
 * B112xxooo XXX 
@@ -17,3 +18,6 @@
 
 ## 參考資料:
 * Java 巢式迴圈語法(https://openhome.cc/zh-tw/java/syntax-abc/for-while/)
+
+## 遊玩方式
+* 輸入:modeA
